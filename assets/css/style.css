@@ -5,7 +5,9 @@
 
 body {
     background-color: rgb(84, 189, 189);
+    color: chartreuse;
 }
+
 
 header {
     position: absolute;
